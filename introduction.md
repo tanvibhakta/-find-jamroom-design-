@@ -7,13 +7,16 @@ To create an application that manages the reservation of rooms where all types o
 
 
 ## Optimistic Outcome
+
 ### MVP
 + Users can see information relevant to the music rooms they are considering using
 + Users can book these rooms through the application
 + Users can contact music room managers
+
 ### Middle Stage
 + Users can advertise their music rooms
 + Users can leave feedback about music rooms
+
 ### Late Stage
 + Users can [find technicians and other relevant people] [obtain services] to manage music rooms
 + Users will be able to book rooms for other special activities (ex: Dance Studios, Sports Arenas)
